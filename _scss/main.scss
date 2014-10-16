@@ -1,6 +1,5 @@
 @import "reset";
 @import "syntax";
-
-body {
-    background: white;
-}
+@import "bourbon/bourbon";
+@import "neat/neat";
+@import "base/base";

@@ -1,1 +1,0 @@
-Site redesign coming soon.

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">
 	<channel>
 		<title>FermUp &#45; The Fermented Food Blog</title>
 		<description>The Fermented Food Blog about anything and everything fermented.</description>
-		<link>http://fermup.com/blog</link>
-		<atom:link href="http://fermup.com/feed/fermupblog.xml" rel="self" type="application/rss+xml" />
+		<link>https://fermup.com/blog</link>
+		<atom:link href="https://fermup.com/feed/fermupblog.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>How to Fall in Love with Koji</title>
@@ -20,7 +20,7 @@
 
 &lt;p&gt;We can then use these sugars in other fermented foods such as miso or sake. But why be so old school and traditional when there is a whole new world of ingredients ripe for experimentation? This is a new age in koji love. Koji can be your new flavor weapon. Protect the world from the bland and the boring.&lt;/p&gt;
 
-&lt;p&gt;But first, you must make the koji. Here is a recipe excerpt from my new cookbook, &lt;a href=&quot;http://www.amazon.com/exec/obidos/ASIN/1440573662/fermup-20/&quot;&gt;The Everyday Fermentation Handbook&lt;/a&gt;. And here is a &lt;a href=&quot;http://fermup.com/incubators/&quot;&gt;visual guide to building a koji incubator&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;But first, you must make the koji. Here is a recipe excerpt from my new cookbook, &lt;a href=&quot;https://www.amazon.com/exec/obidos/ASIN/1440573662/fermup-20/&quot;&gt;The Everyday Fermentation Handbook&lt;/a&gt;. And here is a &lt;a href=&quot;https://fermup.com/incubators/&quot;&gt;visual guide to building a koji incubator&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Yield: 1100 grams (8 cups)&lt;/em&gt;
 &lt;em&gt;Prep: 12 hours&lt;/em&gt;
@@ -57,15 +57,15 @@
 &lt;p&gt;&lt;em&gt;If you want to make a lot of koji, I recommend using a large 20 quart pressure cooker. I like to make 4 pounds at a time, and steaming 1 batch of rice in a pressure cooker saves a lot of time compared to multiple batches in a steamer.&lt;/em&gt;&lt;/p&gt;
 </description>
 				<pubDate>Fri, 05 Sep 2014 00:00:00 -0500</pubDate>
-				<link>http://fermup.com/blog/how-to-fall-in-love-with-koji/</link>
-				<guid isPermaLink="true">http://fermup.com/blog/how-to-fall-in-love-with-koji/</guid>
+				<link>https://fermup.com/blog/how-to-fall-in-love-with-koji/</link>
+				<guid isPermaLink="true">https://fermup.com/blog/how-to-fall-in-love-with-koji/</guid>
 			</item>
 		
 			<item>
 				<title>What Does Gram-Positive Mean?</title>
-				<description>&lt;p&gt;&lt;strong&gt;To keep to the &lt;a href=&quot;http://fermup.com/wtf/&quot;&gt;What the Ferment Podcast&lt;/a&gt; theme we developed two weeks ago, I thought it would only be fitting to go a little more in depth about Lactic Acid Bacteria (LAB).&lt;/strong&gt;&lt;/p&gt;
+				<description>&lt;p&gt;&lt;strong&gt;To keep to the &lt;a href=&quot;https://fermup.com/wtf/&quot;&gt;What the Ferment Podcast&lt;/a&gt; theme we developed two weeks ago, I thought it would only be fitting to go a little more in depth about Lactic Acid Bacteria (LAB).&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;As Branden and I said in &lt;a href=&quot;http://fermup.com/wtf/02/&quot;&gt;WTF Episode 2&lt;/a&gt;, Lactic Acid Bacteria is a very general name for a class of bacteria that are gram-positive, non-sporing, non-respiring, round or rod in shape bacteria, which produce lactic acid as a major end product during the fermentation of carbohydrates. Phew, that’s a long definition. Maybe we should just focus on one term at a time. Let’s start with gram-positive.&lt;/p&gt;
+&lt;p&gt;As Branden and I said in &lt;a href=&quot;https://fermup.com/wtf/02/&quot;&gt;WTF Episode 2&lt;/a&gt;, Lactic Acid Bacteria is a very general name for a class of bacteria that are gram-positive, non-sporing, non-respiring, round or rod in shape bacteria, which produce lactic acid as a major end product during the fermentation of carbohydrates. Phew, that’s a long definition. Maybe we should just focus on one term at a time. Let’s start with gram-positive.&lt;/p&gt;
 
 &lt;h4 id=&quot;gram-postive&quot;&gt;Gram-Postive&lt;/h4&gt;
 
@@ -79,7 +79,7 @@
 
 &lt;p&gt;Gram-negative bacteria do not retain the crystal violet stain because of its physical makeup and will stain pink. Thus, why they are called gram-negative. You also need a microscope to see this stain coloring. The microbes are still very tiny and are usually placed on a slide prior to staining.&lt;/p&gt;
 
-&lt;p&gt;&lt;a title=&quot;Graevemoore at en.wikipedia [CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-sa/3.0) or GFDL (http://www.gnu.org/copyleft/fdl.html)], from Wikimedia Commons&quot; href=&quot;http://commons.wikimedia.org/wiki/File%3AGram-Cell-wall.svg&quot;&gt;&lt;img width=&quot;256&quot; alt=&quot;Gram-Cell-wall&quot; src=&quot;//upload.wikimedia.org/wikipedia/commons/thumb/5/52/Gram-Cell-wall.svg/256px-Gram-Cell-wall.svg.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a title=&quot;Graevemoore at en.wikipedia [CC-BY-SA-3.0 (https://creativecommons.org/licenses/by-sa/3.0) or GFDL (https://www.gnu.org/copyleft/fdl.html)], from Wikimedia Commons&quot; href=&quot;https://commons.wikimedia.org/wiki/File%3AGram-Cell-wall.svg&quot;&gt;&lt;img width=&quot;256&quot; alt=&quot;Gram-Cell-wall&quot; src=&quot;//upload.wikimedia.org/wikipedia/commons/thumb/5/52/Gram-Cell-wall.svg/256px-Gram-Cell-wall.svg.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;This image is a very simple representation of how bacterium cell walls look. The protein I am talking about is in red.&lt;/p&gt;
 
@@ -93,20 +93,20 @@
 
 &lt;p&gt;&lt;strong&gt;REFERENCES:&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Behnsen, J., Deriu, E., Sassone-Corsi, M., and Raffetellu, H. 2013. Probiotics: Properties, Examples, and Specific Applications. Perspectives In Medicine. http://perspectivesinmedicine.org/content/3/3/a010074.full&lt;/p&gt;
+&lt;p&gt;Behnsen, J., Deriu, E., Sassone-Corsi, M., and Raffetellu, H. 2013. Probiotics: Properties, Examples, and Specific Applications. Perspectives In Medicine. https://perspectivesinmedicine.org/content/3/3/a010074.full&lt;/p&gt;
 
-&lt;p&gt;Gram. C. 1884. Ueber die isolirte Färbung der Schizomyceten in Schnitt-und Trockenpräparaten. Fortschritte der Medcin, (2):185-189. Available at: http://www.microbelibrary.org/images/stories/ML_2.0/1884p215.pdf&lt;/p&gt;
+&lt;p&gt;Gram. C. 1884. Ueber die isolirte Färbung der Schizomyceten in Schnitt-und Trockenpräparaten. Fortschritte der Medcin, (2):185-189. Available at: https://www.microbelibrary.org/images/stories/ML_2.0/1884p215.pdf&lt;/p&gt;
 
-&lt;p&gt;National Institute of Allergy and Infectious Diseases. Last Updated April 30, 2012 and last Reviewed April 30, 2012. http://www.niaid.nih.gov/topics/antimicrobialresistance/examples/gramnegative/Pages/default.aspx&lt;/p&gt;
+&lt;p&gt;National Institute of Allergy and Infectious Diseases. Last Updated April 30, 2012 and last Reviewed April 30, 2012. https://www.niaid.nih.gov/topics/antimicrobialresistance/examples/gramnegative/Pages/default.aspx&lt;/p&gt;
 </description>
 				<pubDate>Mon, 17 Mar 2014 00:00:00 -0500</pubDate>
-				<link>http://fermup.com/blog/what-does-gram-positive-mean/</link>
-				<guid isPermaLink="true">http://fermup.com/blog/what-does-gram-positive-mean/</guid>
+				<link>https://fermup.com/blog/what-does-gram-positive-mean/</link>
+				<guid isPermaLink="true">https://fermup.com/blog/what-does-gram-positive-mean/</guid>
 			</item>
 		
 			<item>
 				<title>Good Food "Ferment" Festival</title>
-				<description>&lt;p&gt;&lt;strong&gt;Are you going to the &lt;a href=&quot;http://goodfoodfestivals.com/&quot;&gt;Good Food Festival&lt;/a&gt; this year? You should if you live near Chicago. Not only is it the 10th Anniversary of a festival and conference advocating delicious, healthy, and accessible food, but it is also full of fermentation this year!&lt;/strong&gt;&lt;/p&gt;
+				<description>&lt;p&gt;&lt;strong&gt;Are you going to the &lt;a href=&quot;https://goodfoodfestivals.com/&quot;&gt;Good Food Festival&lt;/a&gt; this year? You should if you live near Chicago. Not only is it the 10th Anniversary of a festival and conference advocating delicious, healthy, and accessible food, but it is also full of fermentation this year!&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;There are so many fermented food workshops and sessions that the Good Food Festival is quickly becoming the Good &lt;em&gt;Ferment&lt;/em&gt; Festival. Be sure to stop by any one of the three sessions that I’ll be teaching or try to catch me while I’m running around searching for fermenters to interview for a FermUp segment.&lt;/p&gt;
 
@@ -115,43 +115,43 @@
 &lt;p&gt;The following are listed based on time so that you may plan your entire day around fermentation. There is some overlap, so choose your ferments wisely.&lt;/p&gt;
 
 &lt;h4 id=&quot;master-class-home-butchery-and-curing&quot;&gt;Master Class: Home Butchery and Curing&lt;/h4&gt;
-&lt;p&gt;presented by &lt;a href=&quot;http://ruhlman.com/&quot;&gt;Michael Ruhlman&lt;/a&gt; and &lt;a href=&quot;http://www.theforestgrill.com/index.php/chefs&quot;&gt;Brian Polcyn&lt;/a&gt;&lt;br /&gt;
+&lt;p&gt;presented by &lt;a href=&quot;https://ruhlman.com/&quot;&gt;Michael Ruhlman&lt;/a&gt; and &lt;a href=&quot;https://www.theforestgrill.com/index.php/chefs&quot;&gt;Brian Polcyn&lt;/a&gt;&lt;br /&gt;
 &lt;em&gt;9:00AM to Noon&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;This class may be a stretch to add to the fermentation list. It may or may not include much talk of fermentation. It is a three hour course, but much of that time will likely be spent walking through the butchering process. Even if there isn’t much fermentation in this course, you are sure to learn a few things about butchering and therefore be more prepared for fermenting your own meat at home. You must pre-register for this class; &lt;a href=&quot;http://goodfoodfestivals.com/chicago/saturday-festival/good-food-master-class/&quot;&gt;signup here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This class may be a stretch to add to the fermentation list. It may or may not include much talk of fermentation. It is a three hour course, but much of that time will likely be spent walking through the butchering process. Even if there isn’t much fermentation in this course, you are sure to learn a few things about butchering and therefore be more prepared for fermenting your own meat at home. You must pre-register for this class; &lt;a href=&quot;https://goodfoodfestivals.com/chicago/saturday-festival/good-food-master-class/&quot;&gt;signup here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h4 id=&quot;kimchi-basics--improv&quot;&gt;Kimchi Basics &amp;amp; Improv&lt;/h4&gt;
-&lt;p&gt;presented by me: &lt;a href=&quot;http://goodfoodfestivals.com/la/speakers/branden-byers/&quot;&gt;Branden Byers&lt;/a&gt;&lt;br /&gt;
+&lt;p&gt;presented by me: &lt;a href=&quot;https://goodfoodfestivals.com/la/speakers/branden-byers/&quot;&gt;Branden Byers&lt;/a&gt;&lt;br /&gt;
 &lt;em&gt;11:30 to 11:50AM&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Here’s the first session I’ll be teaching at the festival. Learn the basics of kimchi vegetable fermentation, how to improvise your own flavor creations based on available ingredients, and then learn a few ideas on how to incorporate kimchi into your regular cooking/eating habits. There is a lot to cover, but I will keep it simple so you can go home and work your own kimchi magic. Stop by and say hi but you will probably have to follow me over to the DIY Heirloom Yogurt session because I’m booked back-to-back for these Good Food Commons sessions.&lt;/p&gt;
 
 &lt;h4 id=&quot;using-sourdough-starters--freshly-milled-whole-grain-flours&quot;&gt;Using Sourdough Starters &amp;amp; Freshly Milled Whole Grain Flours&lt;/h4&gt;
-&lt;p&gt;presented by &lt;a href=&quot;http://www.crumbchicago.com/&quot;&gt;Crumb Chicago&lt;/a&gt; and &lt;a href=&quot;http://sauceandbread.com/&quot;&gt;Sauce and Bread Kitchen&lt;/a&gt;&lt;br /&gt;
+&lt;p&gt;presented by &lt;a href=&quot;https://www.crumbchicago.com/&quot;&gt;Crumb Chicago&lt;/a&gt; and &lt;a href=&quot;https://sauceandbread.com/&quot;&gt;Sauce and Bread Kitchen&lt;/a&gt;&lt;br /&gt;
 &lt;em&gt;11:30 to 11:50AM&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;While all leavened bread is a form of fermentation, I’m biased when it comes to thinking of bread and fermentation. It’s all sourdough for me. And if you’re not already using sourdough starters, then this Good Food Commons session under the Make Your Own track is sure to give you an introduction.&lt;/p&gt;
 
 &lt;h4 id=&quot;diy-heirloom-yogurts&quot;&gt;DIY Heirloom Yogurts&lt;/h4&gt;
-&lt;p&gt;presented by me: &lt;a href=&quot;http://goodfoodfestivals.com/la/speakers/branden-byers/&quot;&gt;Branden Byers&lt;/a&gt;&lt;br /&gt;
+&lt;p&gt;presented by me: &lt;a href=&quot;https://goodfoodfestivals.com/la/speakers/branden-byers/&quot;&gt;Branden Byers&lt;/a&gt;&lt;br /&gt;
 &lt;em&gt;Noon to 12:20PM&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;That’s right, if you haven’t heard me talk enough about heirloom yogurts on the FermUp podcast, then this session will give you another fix. This mini-session will provide an overview of the broad range of heirloom yogurts available and how to make them at home. It’s a part of the Good Food Commons Make Your Own track so general admission is all you need to attend. See you there!&lt;/p&gt;
 
 &lt;h4 id=&quot;the-locapours-cocktail-bar&quot;&gt;The Locapour’s Cocktail Bar&lt;/h4&gt;
-&lt;p&gt;presented by &lt;a href=&quot;http://goodfoodfestivals.com/chicago/speakers/kevin-west/&quot;&gt;Kevin West&lt;/a&gt;&lt;br /&gt;
+&lt;p&gt;presented by &lt;a href=&quot;https://goodfoodfestivals.com/chicago/speakers/kevin-west/&quot;&gt;Kevin West&lt;/a&gt;&lt;br /&gt;
 &lt;em&gt;12:30 to 1:45PM&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Sure, alcohol is fermented, but, more importantly, word on the street is that this workshop may include the mixing of shrubs. In which case, if you get hooked on shrubs, you’re only one step away from fermenting your own vinegar for your new favorite drink.&lt;/p&gt;
 
 &lt;h4 id=&quot;fantastic-fermentation&quot;&gt;Fantastic Fermentation&lt;/h4&gt;
-&lt;p&gt;presented by &lt;a href=&quot;http://ediblealchemyfoods.com/&quot;&gt;Edible Alchemy&lt;/a&gt;&lt;br /&gt;
+&lt;p&gt;presented by &lt;a href=&quot;https://ediblealchemyfoods.com/&quot;&gt;Edible Alchemy&lt;/a&gt;&lt;br /&gt;
 &lt;em&gt;1:00 to 1:20PM &amp;amp; 3:00 to 3:20PM&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;I’m certain these vegetable fermentation sessions will be fantastic. And there are two of them so you have no excuse to miss the content! Plus, it’s being taught by Andrea Mattson-McGaffey, whom, if I remember correctly, was one of the judges of the Kimchi Competition at last year’s festival. She’s a vegetable fermentation pro so you’d best go!&lt;/p&gt;
 
 &lt;h4 id=&quot;kombucha--kombucha-mocktails&quot;&gt;Kombucha &amp;amp; Kombucha Mocktails&lt;/h4&gt;
-&lt;p&gt;presented by &lt;a href=&quot;http://arizekombucha.com/&quot;&gt;Arize Kombucha Tea&lt;/a&gt;&lt;br /&gt;
+&lt;p&gt;presented by &lt;a href=&quot;https://arizekombucha.com/&quot;&gt;Arize Kombucha Tea&lt;/a&gt;&lt;br /&gt;
 &lt;em&gt;1:30 to 1:50PM&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;If you aren’t going to be at the full Kombucha workshop later in the day, then this one might be just what you’re looking for. Of course, you might as well attend both because this mini-session will be introducing you to kombucha cocktails.&lt;/p&gt;
@@ -163,25 +163,25 @@
 &lt;p&gt;I’m not certain what kind of cheeses will be presented in this session. So it could be all fresh acid-coagulated cheeses, in which case, it’s not actually fermented. But check it out if you’re interested in cheese.&lt;/p&gt;
 
 &lt;h4 id=&quot;cheesemaking-with-goats-milk&quot;&gt;Cheesemaking with Goat’s Milk&lt;/h4&gt;
-&lt;p&gt;presented by &lt;a href=&quot;http://www.learngrowconnect.org/&quot;&gt;Angelic Organics Learning Center&lt;/a&gt;&lt;br /&gt;
+&lt;p&gt;presented by &lt;a href=&quot;https://www.learngrowconnect.org/&quot;&gt;Angelic Organics Learning Center&lt;/a&gt;&lt;br /&gt;
 &lt;em&gt;2:30 to 2:50PM&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;As with the other cheese making session, I’m not certain if this will include any fermented cheeses. But even if they are only acid-coagulated cheeses, they still are made with goat’s milk, which is delicious, so check out this session in the Good Food Commons if you have time.&lt;/p&gt;
 
 &lt;h4 id=&quot;master-class-brew-your-own-beer&quot;&gt;Master Class: Brew Your Own Beer&lt;/h4&gt;
-&lt;p&gt;presented by &lt;a href=&quot;http://www.chicagobrewwerks.com/&quot;&gt;Chicago Brew Werks&lt;/a&gt;&lt;br /&gt;
+&lt;p&gt;presented by &lt;a href=&quot;https://www.chicagobrewwerks.com/&quot;&gt;Chicago Brew Werks&lt;/a&gt;&lt;br /&gt;
 &lt;em&gt;2:00 to 5:00PM&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;If you’ve been procrastinating brewing your own beer at home, then now is your chance to learn everything you need to know to get started. It’s a three hour course, so it is safe to assume that all of the basics will be covered with plenty of time for questions. You must pre-register for this class; &lt;a href=&quot;http://goodfoodfestivals.com/chicago/saturday-festival/good-food-master-class-2/&quot;&gt;signup here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you’ve been procrastinating brewing your own beer at home, then now is your chance to learn everything you need to know to get started. It’s a three hour course, so it is safe to assume that all of the basics will be covered with plenty of time for questions. You must pre-register for this class; &lt;a href=&quot;https://goodfoodfestivals.com/chicago/saturday-festival/good-food-master-class-2/&quot;&gt;signup here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h4 id=&quot;cider-vinegar--hard-ciders&quot;&gt;Cider, Vinegar &amp;amp; Hard Ciders&lt;/h4&gt;
-&lt;p&gt;presented by &lt;a href=&quot;http://www.ellisfamilyfarm.com/&quot;&gt;Ellis Family Farms&lt;/a&gt; and &lt;a href=&quot;http://www.seedlingfruit.com/&quot;&gt;Seedling Fruits&lt;/a&gt;&lt;br /&gt;
+&lt;p&gt;presented by &lt;a href=&quot;https://www.ellisfamilyfarm.com/&quot;&gt;Ellis Family Farms&lt;/a&gt; and &lt;a href=&quot;https://www.seedlingfruit.com/&quot;&gt;Seedling Fruits&lt;/a&gt;&lt;br /&gt;
 &lt;em&gt;3:30 to 3:50PM&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;I love making fresh cider and spontaneously fermented hard cider. Sometimes I also end up making vinegar if I forget about the cider. All three ways of enjoying a bounty of apples are delicious and a perfect example of how fermentation works as an excellent preservation method. Check out this session in the Good Food Commons if you expect to find yourself with a lot of apples this summer and fall.&lt;/p&gt;
 
 &lt;h4 id=&quot;diy-kombucha-and-fermented-sodas&quot;&gt;DIY Kombucha and Fermented Sodas&lt;/h4&gt;
-&lt;p&gt;presented by &lt;a href=&quot;http://www.nessalla.com/&quot;&gt;NessAlla&lt;/a&gt; and &lt;a href=&quot;http://fermup.com/&quot;&gt;FermUp&lt;/a&gt;&lt;br /&gt;
+&lt;p&gt;presented by &lt;a href=&quot;https://www.nessalla.com/&quot;&gt;NessAlla&lt;/a&gt; and &lt;a href=&quot;https://fermup.com/&quot;&gt;FermUp&lt;/a&gt;&lt;br /&gt;
 &lt;em&gt;3:30 to 5:00PM&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Inevitably this workshop is going to be blast because it brings together three Madison, Wisconsin based fermenters! Alla and Vanessa of NessAlla Kombucha will be sharing the basics of kombucha brewing at home and I will be sharing how easy it is to make naturally fermented sodas. We will also provide an overview of the differences and similarities between non-alcoholic fermented beverages. Make sure to get a Workshop Pass for admission to this and all other workshops.&lt;/p&gt;
@@ -189,8 +189,8 @@
 &lt;p&gt;&lt;strong&gt;You can &lt;a href=&quot;https://www.eventbrite.com/e/10th-anniversary-good-food-festival-conference-2014-tickets-9442836779&quot;&gt;purchase general admission (includes all mini-sessions) or Workshop Passes (includes all workshops except the two Master Classes) online&lt;/a&gt;. See you at the Saturday Food Festival on March 15, 2014!&lt;/strong&gt;&lt;/p&gt;
 </description>
 				<pubDate>Tue, 04 Mar 2014 00:00:00 -0600</pubDate>
-				<link>http://fermup.com/blog/good-food-ferment-festival/</link>
-				<guid isPermaLink="true">http://fermup.com/blog/good-food-ferment-festival/</guid>
+				<link>https://fermup.com/blog/good-food-ferment-festival/</link>
+				<guid isPermaLink="true">https://fermup.com/blog/good-food-ferment-festival/</guid>
 			</item>
 		
 			<item>
@@ -244,8 +244,8 @@
 &lt;p&gt;Note: As the tapioca flour heats up, it will thicken the yogurt and sugar filling so that once baked, the filling resembles that of commercial toaster pastries. If you really want the inside of your hearts to be red, then add a few drops of food coloring to the filling before baking. Beet juice almost works as a dye, but after baking, the color turns rather dull and disappointing.&lt;/p&gt;
 </description>
 				<pubDate>Mon, 10 Feb 2014 00:00:00 -0600</pubDate>
-				<link>http://fermup.com/blog/my-fermented-valentine/</link>
-				<guid isPermaLink="true">http://fermup.com/blog/my-fermented-valentine/</guid>
+				<link>https://fermup.com/blog/my-fermented-valentine/</link>
+				<guid isPermaLink="true">https://fermup.com/blog/my-fermented-valentine/</guid>
 			</item>
 		
 			<item>
@@ -275,8 +275,8 @@
 &lt;p&gt;So use whichever method fits into your work style the best unless you will be making a large batch of fermented vegetables that you would like to turn out the same every year. In that case, I definitely recommend a gram scale.&lt;/p&gt;
 </description>
 				<pubDate>Mon, 20 May 2013 00:00:00 -0500</pubDate>
-				<link>http://fermup.com/blog/The-Importance-of-Weighing-Salt/</link>
-				<guid isPermaLink="true">http://fermup.com/blog/The-Importance-of-Weighing-Salt/</guid>
+				<link>https://fermup.com/blog/The-Importance-of-Weighing-Salt/</link>
+				<guid isPermaLink="true">https://fermup.com/blog/The-Importance-of-Weighing-Salt/</guid>
 			</item>
 		
 			<item>
@@ -297,20 +297,20 @@
 
 &lt;p&gt;I handed out viili yogurt starters at the heirloom yogurt class in hopes that people would be inspired to not only make their own viili at home, but also share it with their friends and family. I believe the more people that are making viili in a specific area, the less likely friends and family are to loose their cultures. If a person screws something up, they can just go ask their neighbor for more. We must work to keep these heirloom yogurts alive and easily accessible.&lt;/p&gt;
 
-&lt;p&gt;If you were in attendance at the heirloom yogurt workshop, be sure to check out &lt;a href=&quot;http://fermup.com/blog/how-to-make-viili-at-home/&quot;&gt;these instructions&lt;/a&gt; for a refresher on how to make your viili at home.&lt;/p&gt;
+&lt;p&gt;If you were in attendance at the heirloom yogurt workshop, be sure to check out &lt;a href=&quot;https://fermup.com/blog/how-to-make-viili-at-home/&quot;&gt;these instructions&lt;/a&gt; for a refresher on how to make your viili at home.&lt;/p&gt;
 
 &lt;p&gt;Thanks to everyone that attended. I had a great time!&lt;/p&gt;
 </description>
 				<pubDate>Tue, 16 Apr 2013 00:00:00 -0500</pubDate>
-				<link>http://fermup.com/blog/good-turnout-for-the-madison-food-camp-2013/</link>
-				<guid isPermaLink="true">http://fermup.com/blog/good-turnout-for-the-madison-food-camp-2013/</guid>
+				<link>https://fermup.com/blog/good-turnout-for-the-madison-food-camp-2013/</link>
+				<guid isPermaLink="true">https://fermup.com/blog/good-turnout-for-the-madison-food-camp-2013/</guid>
 			</item>
 		
 			<item>
 				<title>Spicy Dehydrated Dilly Beans</title>
 				<description>&lt;p&gt;&lt;strong&gt;Here is my second attempt at dehydrating fermented vegetables. This time I tried a plain and spicy version of dehydrated garlic dill grean beans (a.k.a. dilly beans).&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;This isn’t about creating survival food. For me, this is about flavor exploration. In this second attempt at fermented vegetables, the flavor of the garlic dill green beans tasted surprislingly similar to sauerkraut once dehydrated. If you haven’t tried the &lt;a href=&quot;http://fermup.com/blog/fermented-dehydration-how-to-make-sour-cabbage-chips/&quot;&gt;sour cabbage crisps&lt;/a&gt;, then I recommend starting there if you want to follow along on my journey.&lt;/p&gt;
+&lt;p&gt;This isn’t about creating survival food. For me, this is about flavor exploration. In this second attempt at fermented vegetables, the flavor of the garlic dill green beans tasted surprislingly similar to sauerkraut once dehydrated. If you haven’t tried the &lt;a href=&quot;https://fermup.com/blog/fermented-dehydration-how-to-make-sour-cabbage-chips/&quot;&gt;sour cabbage crisps&lt;/a&gt;, then I recommend starting there if you want to follow along on my journey.&lt;/p&gt;
 
 &lt;p&gt;Don’t squeeze out the garlic dill grean beans before dehydrating. Removing as much liquid as possible does make for faster dehydration, however, the texture and crunch of the final dehydrated bean is affected. If you do decide to squeeze, then the dehydration will be closer to 6 hours as opposed to 9 hours. Since these expirements are about taste and mouthfeel, I opted for not squeezing my second batch.&lt;/p&gt;
 
@@ -347,15 +347,15 @@
 &lt;p&gt;I’m thinking dehydrated kimchi is in order for an upcoming round…&lt;/p&gt;
 </description>
 				<pubDate>Thu, 11 Apr 2013 00:00:00 -0500</pubDate>
-				<link>http://fermup.com/blog/dehydrated-dilly-beans/</link>
-				<guid isPermaLink="true">http://fermup.com/blog/dehydrated-dilly-beans/</guid>
+				<link>https://fermup.com/blog/dehydrated-dilly-beans/</link>
+				<guid isPermaLink="true">https://fermup.com/blog/dehydrated-dilly-beans/</guid>
 			</item>
 		
 			<item>
 				<title>Bulging Lid: What Not To Do With Kefir</title>
 				<description>&lt;p&gt;&lt;strong&gt;Kefir is simple to make but it is also easy enough to mess up through curiosity. My latest experiment was to brew kefir like it was made long ago but I took &lt;em&gt;way&lt;/em&gt; too many liberties to make this a worthy test.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;The first kefir grains are believed to have formed inside of animal skin pouches. Originally, these pouches were used to carry fresh milk. At ambient temperatures, raw milk ferments on its own due to naturally occurring lactic acid bacteria. The animal skins were also presumably contributing bacteria to the milk. Eventually, polysaccharide matrices began to form on the inside of those pouches and the first kefir grains were born. This theory has been tested in a laboratory with positive results documented in &lt;a href=&quot;http://www.kefir.ilbello.com/articoli/k4.pdf&quot;&gt;this PDF journal article&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The first kefir grains are believed to have formed inside of animal skin pouches. Originally, these pouches were used to carry fresh milk. At ambient temperatures, raw milk ferments on its own due to naturally occurring lactic acid bacteria. The animal skins were also presumably contributing bacteria to the milk. Eventually, polysaccharide matrices began to form on the inside of those pouches and the first kefir grains were born. This theory has been tested in a laboratory with positive results documented in &lt;a href=&quot;https://www.kefir.ilbello.com/articoli/k4.pdf&quot;&gt;this PDF journal article&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;So with that idea in mind I extrapolated too far. I assumed that if kefir grains were forming on the inside of the animal skin pouches, then they must not have been washing those containers. Hence, the reason I decided to stop washing my kefir brewing vessel in-between straining and adding new milk.&lt;/p&gt;
 
@@ -385,17 +385,17 @@
 &lt;p&gt;Just take this lesson from me: don’t be lazy when fermenting kefir, and if you are, please at least wash the lid.&lt;/p&gt;
 </description>
 				<pubDate>Mon, 01 Apr 2013 00:00:00 -0500</pubDate>
-				<link>http://fermup.com/blog/bulging-lid-what-not-to-do-with-kefir/</link>
-				<guid isPermaLink="true">http://fermup.com/blog/bulging-lid-what-not-to-do-with-kefir/</guid>
+				<link>https://fermup.com/blog/bulging-lid-what-not-to-do-with-kefir/</link>
+				<guid isPermaLink="true">https://fermup.com/blog/bulging-lid-what-not-to-do-with-kefir/</guid>
 			</item>
 		
 			<item>
 				<title>Stretch That Yogurt: How to Make Viili at Home</title>
 				<description>&lt;p&gt;&lt;strong&gt;I never would have imagined being captivated by a slimy and viscous dairy product, but I am. Of all the heirloom yogurts that I keep, viili and piimä are my favorites. Today I will show you how easy it is to to make your own viili once you obtain the “seed” culture.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Viili is a traditional heirloom yogurt from Finland. As with other &lt;a href=&quot;http://fermup.com/blog/homemade-heirloom-yogurt-showdown/&quot;&gt;heirloom yogurts&lt;/a&gt;, viili is prepared by &lt;em&gt;backslopping&lt;/em&gt; a small portion from a previous batch into fresh milk and then leaving it to ferment at room temperature for 12 to 24 hours.&lt;/p&gt;
+&lt;p&gt;Viili is a traditional heirloom yogurt from Finland. As with other &lt;a href=&quot;https://fermup.com/blog/homemade-heirloom-yogurt-showdown/&quot;&gt;heirloom yogurts&lt;/a&gt;, viili is prepared by &lt;em&gt;backslopping&lt;/em&gt; a small portion from a previous batch into fresh milk and then leaving it to ferment at room temperature for 12 to 24 hours.&lt;/p&gt;
 
-&lt;p&gt;The consistency will vary depending on the culture of bacteria in the original viili. The two forms of viili are known as &lt;em&gt;short&lt;/em&gt; and &lt;em&gt;long&lt;/em&gt;. The short version has a consistency similar to commercial yogurt with a mild taste. The long version has a ropy, or stringy, consistency that stretches like honey or &lt;a href=&quot;http://youtu.be/_iDALjY4QnY&quot; target=&quot;_blank&quot; alt=&quot;Nickelodeon Gak Commercial Youtube&quot; title=&quot;Nickelodeon Gak Commerical from the 90s&quot;&gt;Nickelodeon Gak&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The consistency will vary depending on the culture of bacteria in the original viili. The two forms of viili are known as &lt;em&gt;short&lt;/em&gt; and &lt;em&gt;long&lt;/em&gt;. The short version has a consistency similar to commercial yogurt with a mild taste. The long version has a ropy, or stringy, consistency that stretches like honey or &lt;a href=&quot;https://youtu.be/_iDALjY4QnY&quot; target=&quot;_blank&quot; alt=&quot;Nickelodeon Gak Commercial Youtube&quot; title=&quot;Nickelodeon Gak Commerical from the 90s&quot;&gt;Nickelodeon Gak&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;My first experience was with short viili and it was okay, but nothing drastically different from other heirloom yogurts that I make. But once I experienced long viili, I was hooked. I love everything about viili. The way it stretches and slides across a spoon is intriguing. And the slight challenge of getting the thick goo from bowl to mouth is a welcome retreat from the average yogurt that can easily be shoveled into the mouth.&lt;/p&gt;
 
@@ -437,8 +437,8 @@
 &lt;p&gt;Give viili a chance. If you think it sounds gross, then you &lt;em&gt;might&lt;/em&gt; be right, but you won’t know until you try it. And if by chance you don’t like to eat the slime, you can’t deny that it is fun to play with!&lt;/p&gt;
 </description>
 				<pubDate>Fri, 22 Mar 2013 00:00:00 -0500</pubDate>
-				<link>http://fermup.com/blog/how-to-make-viili-at-home/</link>
-				<guid isPermaLink="true">http://fermup.com/blog/how-to-make-viili-at-home/</guid>
+				<link>https://fermup.com/blog/how-to-make-viili-at-home/</link>
+				<guid isPermaLink="true">https://fermup.com/blog/how-to-make-viili-at-home/</guid>
 			</item>
 		
 			<item>
@@ -474,8 +474,8 @@
 &lt;p&gt;What was your worst fermentation fumble or failure?&lt;/p&gt;
 </description>
 				<pubDate>Wed, 13 Mar 2013 00:00:00 -0500</pubDate>
-				<link>http://fermup.com/blog/diy-cheese-failure-when-cutting-the-cheese-leads-to-letdown/</link>
-				<guid isPermaLink="true">http://fermup.com/blog/diy-cheese-failure-when-cutting-the-cheese-leads-to-letdown/</guid>
+				<link>https://fermup.com/blog/diy-cheese-failure-when-cutting-the-cheese-leads-to-letdown/</link>
+				<guid isPermaLink="true">https://fermup.com/blog/diy-cheese-failure-when-cutting-the-cheese-leads-to-letdown/</guid>
 			</item>
 		
 	</channel>

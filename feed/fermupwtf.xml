@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:atom="https://www.w3.org/2005/Atom" xmlns:itunes="https://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
 	<channel>
 		<title>What the Ferment</title>
-		<link>http://fermup.com/wtf</link>
+		<link>https://fermup.com/wtf</link>
 		<language>en-us</language>
 		<copyright>&#x2117; &amp; &#xA9; 2014 Branden Byers</copyright>
 		<itunes:subtitle>The art, science and history of food fermentation.</itunes:subtitle>
@@ -15,28 +15,28 @@
 		<itunes:name>Branden Byers</itunes:name>
 		<itunes:email>branden@fermup.com</itunes:email>
 		</itunes:owner>
-		<itunes:image href="http://fermup.com/images/wtf-podcast-logo.jpg" />
+		<itunes:image href="https://fermup.com/images/wtf-podcast-logo.jpg" />
 		<itunes:category text="Arts">
 		<itunes:category text="Food"/>
 		</itunes:category>
 		<itunes:category text="Society &amp; Culture"/>
-		<atom:link href="http://fermup.com/feed/fermupwtf.xml" rel="self" type="application/rss+xml" />
+		<atom:link href="https://fermup.com/feed/fermupwtf.xml" rel="self" type="application/rss+xml" />
 		
 		
 		
 			<item>
 				<title>WTF 02: Lactic Acid Bacteria</title>
-				<link>http://fermup.com/wtf/02/</link>
+				<link>https://fermup.com/wtf/02/</link>
 				<description>&lt;p&gt;Allison and Branden answer the question, “What are LAB?”&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;Send your feedback to &lt;a href=&quot;mailto:wtf@fermup.com&quot;&gt;wtf@fermup.com&lt;/a&gt; or connect with us on &lt;a href=&quot;https://twitter.com/fermup&quot;&gt;Twitter&lt;/a&gt;, &lt;a href=&quot;http://www.facebook.com/fermup&quot;&gt;Facebook&lt;/a&gt; or &lt;a href=&quot;https://google.com/+fermup&quot;&gt;Google+&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Send your feedback to &lt;a href=&quot;mailto:wtf@fermup.com&quot;&gt;wtf@fermup.com&lt;/a&gt; or connect with us on &lt;a href=&quot;https://twitter.com/fermup&quot;&gt;Twitter&lt;/a&gt;, &lt;a href=&quot;https://www.facebook.com/fermup&quot;&gt;Facebook&lt;/a&gt; or &lt;a href=&quot;https://google.com/+fermup&quot;&gt;Google+&lt;/a&gt;.&lt;/p&gt;
 </description>
 				<itunes:author>FermUp</itunes:author>
 				<itunes:subtitle>What are LAB?</itunes:subtitle>
 				<itunes:summary>Allison and Branden answer the question, what are LAB?</itunes:summary>
-				<enclosure url="http://media.blubrry.com/fermup/archive.org/download/fermup/wtf-02.mp3" length="3216496" type="audio/mpeg" />
+				<enclosure url="https://media.blubrry.com/fermup/archive.org/download/fermup/wtf-02.mp3" length="3216496" type="audio/mpeg" />
 				<guid isPermaLink="false">episode-01</guid>
 				<pubDate>Fri, 07 Mar 2014 00:00:00 -0600</pubDate>
 				<itunes:duration>06:14</itunes:duration>
@@ -46,17 +46,17 @@
 		
 			<item>
 				<title>WTF 01: What is Fermentation?</title>
-				<link>http://fermup.com/wtf/01/</link>
+				<link>https://fermup.com/wtf/01/</link>
 				<description>&lt;p&gt;Allison and Branden answer the question, “What is Fermentation?”&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;Send your feedback to &lt;a href=&quot;mailto:wtf@fermup.com&quot;&gt;wtf@fermup.com&lt;/a&gt; or connect with us on &lt;a href=&quot;https://twitter.com/fermup&quot;&gt;Twitter&lt;/a&gt;, &lt;a href=&quot;http://www.facebook.com/fermup&quot;&gt;Facebook&lt;/a&gt; or &lt;a href=&quot;https://google.com/+fermup&quot;&gt;Google+&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Send your feedback to &lt;a href=&quot;mailto:wtf@fermup.com&quot;&gt;wtf@fermup.com&lt;/a&gt; or connect with us on &lt;a href=&quot;https://twitter.com/fermup&quot;&gt;Twitter&lt;/a&gt;, &lt;a href=&quot;https://www.facebook.com/fermup&quot;&gt;Facebook&lt;/a&gt; or &lt;a href=&quot;https://google.com/+fermup&quot;&gt;Google+&lt;/a&gt;.&lt;/p&gt;
 </description>
 				<itunes:author>FermUp</itunes:author>
 				<itunes:subtitle>Fermentation is Everywhere</itunes:subtitle>
 				<itunes:summary>Allison and Branden answer the question, What is Fermentation?</itunes:summary>
-				<enclosure url="http://media.blubrry.com/fermup/archive.org/download/fermup/wtf-01.mp3" length="3714320" type="audio/mpeg" />
+				<enclosure url="https://media.blubrry.com/fermup/archive.org/download/fermup/wtf-01.mp3" length="3714320" type="audio/mpeg" />
 				<guid isPermaLink="false">episode-01</guid>
 				<pubDate>Fri, 21 Feb 2014 00:00:00 -0600</pubDate>
 				<itunes:duration>05:09</itunes:duration>

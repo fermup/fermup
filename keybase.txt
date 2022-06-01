@@ -4,7 +4,7 @@ https://keybase.io/brandenbyers
 
 I hereby claim:
 
-  * I am an admin of http://fermup.com
+  * I am an admin of https://fermup.com
   * I am brandenbyers (https://keybase.io/brandenbyers) on keybase.
   * I have a public key with fingerprint D366 4E31 6442 1BF2 C970  2AA8 A79F 0B1B 5949 B63E
 
